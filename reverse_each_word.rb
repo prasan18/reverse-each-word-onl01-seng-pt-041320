@@ -1,4 +1,4 @@
 def reverse_each_word(sentence1)
-  sentence1.reverse
+  reverse_each_word.reverse
  puts "Hello there, and how are you?"
 end

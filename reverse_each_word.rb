@@ -1,3 +1,3 @@
-def reverse_each_word.reverse(sentence1)
+def reverse_each_word(sentence1).reverse
  puts "#{sentence1}"
 end

@@ -1,5 +1,5 @@
 def reverse_each_word(sentence1)
-  sentence1== welcome.reverse
+welcome== sentence1.reverse
  puts "#{welcome}"
 end
 
